@@ -1,0 +1,29 @@
+* {
+	background-color: lightgray;
+}
+table, th, tr, td {
+	border: solid black 1px;
+}
+body div {
+ 	background-color: lightgray;
+ 	width: ;
+}
+table {	
+	border-collapse: separate;
+	border-spacing: 0;
+}
+
+th {
+	background-color: blanchedalmond;
+
+}
+tr, td {
+	text-align: center;
+	padding-right: 20;
+	padding-left: 20;
+}
+
+button {
+	margin-top: 10px;
+	padding: 5px;
+}
